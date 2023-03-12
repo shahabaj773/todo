@@ -1,0 +1,3 @@
+npx create-react-app frontend
+backend folder - npm i express mongoose
+in backend created file - server.js
